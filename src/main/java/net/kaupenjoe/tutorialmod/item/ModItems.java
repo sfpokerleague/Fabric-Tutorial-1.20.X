@@ -61,11 +61,7 @@ public class ModItems {
 
     public static final Item BAR_BRAWL_MUSIC_DISC = registerItem("bar_brawl_music_disc",
             new MusicDiscItem(7, ModSounds.BAR_BRAWL, new FabricItemSettings().maxCount(1), 122));
-
-    public static final Item PORCUPINE_SPAWN_EGG = registerItem("porcupine_spawn_egg",
-            new SpawnEggItem(ModEntities.PORCUPINE, 0xa86518, 0x3b260f, new FabricItemSettings()));
-
-
+    
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
         entries.add(RAW_RUBY);
