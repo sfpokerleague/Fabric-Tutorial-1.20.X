@@ -5,7 +5,6 @@ import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityRendererRegistry;
 import net.kaupenjoe.tutorialmod.block.ModBlocks;
-import net.kaupenjoe.tutorialmod.entity.ModEntities;
 import net.kaupenjoe.tutorialmod.entity.client.ModModelLayers;
 import net.kaupenjoe.tutorialmod.screen.GemPolishingScreen;
 import net.kaupenjoe.tutorialmod.screen.ModScreenHandlers;
